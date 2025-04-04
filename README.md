@@ -4,7 +4,7 @@ A personal portfolio website showcasing my skills, projects, and professional ex
 
 [View Live Site](https://nombusosimelane.netlify.app)
 
-![Alt Text](https://github.com/octaviav/portfolio_plp_hackathon/images/portfolio.png?raw=true)
+(https://github.com/octaviav/portfolio_plp_hackathon/images/portfolio.png)
 
 ## Features
 
