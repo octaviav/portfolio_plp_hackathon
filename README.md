@@ -4,7 +4,7 @@ A personal portfolio website showcasing my skills, projects, and professional ex
 
 [View Live Site](https://nombusosimelane.netlify.app)
 
-[Portfolio Preview](/images/porfolio.png)
+[Portfolio Preview](/images/portfolio.png)
 
 ## Features
 
